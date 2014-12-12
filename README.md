@@ -9,3 +9,5 @@ My first whatever this is!
 ##I made tacos last night
 ###They were good.
 git config color.ui true 
+
+<b> I can write in bold
