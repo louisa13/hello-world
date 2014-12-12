@@ -5,3 +5,6 @@ My first whatever this is!
 
 Just wanna code my life away.
 ##hello
+*hola
+*bonjour
+*imanalla
