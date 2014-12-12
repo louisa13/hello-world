@@ -11,3 +11,6 @@ My first whatever this is!
 git config color.ui true 
 
 <b> I can write in bold
+=======================
+
+can someone help? I don't know what I'm doing
